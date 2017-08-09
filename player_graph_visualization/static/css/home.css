@@ -1,0 +1,26 @@
+ h1 {
+  color: #FCA205;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+.node text {
+	pointer-events: none;
+	font: 10px sans-serif;
+}
+
+.d3-tip {
+    line-height: 1;
+    color: yellow;
+	font-weight: bold;
+	background: rgba(0, 0, 255, 0.3);
+	padding: 10px;
+}
