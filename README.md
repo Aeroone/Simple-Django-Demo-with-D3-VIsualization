@@ -7,5 +7,5 @@ The dataset is uploaded in "http://127.0.0.1:8000/data/", while the homepage "ht
 Press "update" button and the graph can be updated with new dataset from the server. 
     
     
-![image]()
+![image](https://github.com/Aeroone/Simple-Django-Demo-with-D3-Visualization/blob/master/picture.png)
     
